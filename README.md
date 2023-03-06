@@ -3,3 +3,4 @@
 ## cat photo app link:https://khairnarvrushal.github.io/HTML-Project/cat%20photo/catphotoapp.html
 ## sindhutai sapkal link:https://khairnarvrushal.github.io/HTML-Project/sapkal/
 ## Tic Tac Toi link:https://khairnarvrushal.github.io/HTML-Project/tic%20tac/
+## Snake game link:https://khairnarvrushal.github.io/HTML-Project/snake%20game/
